@@ -124,7 +124,26 @@ a.hvr-sweep-to-bottom::before {
     color: #ffffff;
 }
 
+.col-8 {
+    max-width: 100%;
+}
 
+/*-----------------------------Gallery Page*/
+.gallery-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: 5px;
+    padding-bottom: 40px;
+    padding-top: 50px;
+    color: #ffffff;
+}
+
+@media (min-width:768px) { 
+    .gallery-box{
+        min-height: 500px;
+    }
+}
 
 
 /*-----------------------------Footer*/
