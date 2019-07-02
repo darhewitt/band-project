@@ -98,6 +98,32 @@ a.hvr-sweep-to-bottom::before {
     color: #ffffff;
 }
 
+/*-----------------------------Tour Page*/
+.table {
+
+    color: #ffffff;
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.table td, .table th {
+    border-color: #000000;
+}
+
+.ticket {
+    text-align: right;
+}
+
+.tour-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: 5px;
+    padding-bottom: 40px;
+    padding-top: 50px;
+    color: #ffffff;
+}
+
 
 
 
