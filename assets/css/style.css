@@ -82,6 +82,25 @@ a.hvr-sweep-to-bottom::before {
     padding: 50px;
 }
 
+
+/*-----------------------------Album Page*/
+
+.col-md-4 {
+    padding:15px;
+}
+
+.album-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: 5px;
+    padding-top: 50px;
+    color: #ffffff;
+}
+
+
+
+
 /*-----------------------------Footer*/
 
 footer {
