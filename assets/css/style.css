@@ -56,9 +56,53 @@ a.hvr-sweep-to-bottom::before {
     background-size: cover;
     height: auto;
     width: 100%;
-    margin-top: 10px;
+    margin-top: 0px;
     margin-bottom: 10px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
+}
+
+/*-----------------------------Footer*/
+
+footer {
+    background-color: #000000;
+    min-height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.social-links {
+    padding: 0px;
+    margin: 0;
+}
+
+.list-inline-item {
+    padding-right: 5px;
+}
+
+
+.social-links li a i {
+    width: 40px;
+    height: 40px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 20px;
+    line-height: 15px;
+    text-align: center;
+    color: #000000;
+    background: #fff;
+    transition: all 0.25s ease-in-out;
+    -moz-transition: all 0.25s ease-in-out;
+    -webkit-transition: all 0.25s ease-in-out;
+    -o-transition: all 0.25s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: #A9A9A9;
+}
+
+#footer-details {
+    padding: 10px;
 }
