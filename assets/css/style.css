@@ -15,7 +15,6 @@ nav {
 
 .list-inline-item:not(:last-child) {
     margin: 0;
-
 }
 
 .menucontainer {
@@ -61,6 +60,26 @@ a.hvr-sweep-to-bottom::before {
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
+}
+
+/*-----------------------------Music Page*/
+
+.vid-content-one {
+    margin-top: 20px;
+}
+
+.music-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: 5px;
+    padding-bottom: 40px;
+    padding-top: 50px;
+    color: #ffffff;
+}
+
+.vid-sm.col-6 {
+    padding: 50px;
 }
 
 /*-----------------------------Footer*/
