@@ -18,31 +18,50 @@ Fans will come to this site for the following reasons,
 -To try to book the band for a wedding or birthdays
 -To look for the bands social media accounts
 
-Link to wireframe 
+Link to wireframe (https://github.com/darhewitt/band-project/tree/master/research)
 
 
  
 ## Features
 
-Section 1 - Homepage
-This has a lovely crisp image of the band letting the user know immediatly that they have come to the right site if they are looking for info on radiohead
-Also has a very clean nav bar letting the user immediatly know what options are available to them such as Music, Tour and Gallery.
+1 - Landing Image
 
-Section 2 - Music
+2 - Navbar
+
+3 - Music
+
+4 - Albums
+
+5 - Tour
+
+6 - Gallery
+
+7 - Social
+
+### Existing Features
+
+1 - Landing Image
+Crisp image of the band letting the user know immediatly that they have come to the right site if they are looking for info on radiohead
+
+2 - Navbar
+Clean nav bar letting the user immediatly know what options are available to them such as Music, Tour and Gallery.
+
+3 - Music
 This is where there are embeded videos of the bands new music, below are embeded vidoes of the bands older music.
 
-Section 3 - Albums
+4 - Albums
 This section showcases the bands back catelog with images of all of their studio albums, these images also link to an e-com site so users have the option to purchase
 
-Section 4 - Tour
+5 - Tour
 Here all the information related to their current tour is displayed, there is also a button link for users to purchase tickets for this tour.
-Below the tour info there is text promoting the bands availability to perform at weddings and birthdays with the direction to fill out the below form for any user waning to book the band
 
-Section 5 - Gallery
-There is a image slider showing images of the band on their rescent tour
+6 - Booking Form
+Text promoting the bands availability to perform at weddings and birthdays with the direction to fill out the below form for any user wanting to book the band
 
-Section 6 - Footer
+7 - Social
 The footer contains links to the bands various social media accounts
+
+
 
 ## Technologies Used
 
